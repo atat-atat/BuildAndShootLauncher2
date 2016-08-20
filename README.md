@@ -6,7 +6,7 @@ lol i have no idea how to host a visual studio project on github haha dont laugh
 An extended replication of the original Build and Shoot Launcher by StackOverflow, with a serverlist, a mods manager, and more!
 
 ##Compiling
-BuildAndShootLauncher2 requires Newtonsoft JSON
+BuildAndShootLauncher2 requires Newtonsoft JSON, also I have no idea how Visual Studio project files work, so I only included the .csproj file for now.
 
 ##TODO
 - Multiversion support
